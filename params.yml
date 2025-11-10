@@ -1,0 +1,8 @@
+outdir: "results/"
+outdir_fastqc: "results/fastqc_raw/"
+outdir_fastqc_trim: "results/fastqc_trim/"
+outdir_trimmed: "results/data_trimmed/"
+outdir_htseq: "results/htseq/"
+debug: false
+csv: params.csv
+paried_files: true

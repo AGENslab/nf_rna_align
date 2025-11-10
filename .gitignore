@@ -1,0 +1,8 @@
+container/
+data/
+fastqc_raw/
+fastqc_trim/
+work/
+.nextflow/
+results/
+.nextflow*
