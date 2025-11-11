@@ -78,7 +78,7 @@ El pipeline se ejecuta con el siguiente comando:
 nextflow run main.nf -config nextflow.config -profile kutral -params-file params.yml
 ```
 
-# Estructura del archivo `params.csv`
+## Estructura del archivo `params.csv`
 
 El archivo `params.csv` define las muestras que serán procesadas por el pipeline de alineación de RNA-seq.  
 Este archivo es esencial para la ejecución, ya que especifica las rutas de los archivos FASTQ de entrada y los identificadores únicos de cada muestra.
