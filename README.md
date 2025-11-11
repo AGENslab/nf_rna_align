@@ -39,7 +39,7 @@ El flujo de trabajo produce como salida:
 ## Requerimientos
 
 - **Nextflow** (última versión, instalado localmente o en un entorno de ejecución).  
-- Contenedor con **BWA** (última versión disponible), incluido en la carpeta `containers`.
+- Contenedor con **BWA** (última versión disponible).
 
 ---
 
