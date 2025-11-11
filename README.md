@@ -106,7 +106,7 @@ SRR1424738,/data/all/SRR1424738_1.fastq,/data/all/SRR1424738_2.fastq
 SRR1424739,/data/all/SRR1424739_1.fastq,/data/all/SRR1424739_2.fastq
 SRR1424741,/data/all/SRR1424741_1.fastq,/data/all/SRR1424741_2.fastq
 SRR1424745,/data/all/SRR1424745_1.fastq,/data/all/SRR1424745_2.fastq
-
+```
 
 ## Salidas principales
 
