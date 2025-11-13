@@ -1,7 +1,7 @@
 # Pipeline de alineación de RNA-seq
 
 Este pipeline automatiza las etapas de **preprocesamiento**, **alineamiento** y **cuantificación** de lecturas provenientes de experimentos de **RNA-seq**.  
-Está desarrollado en **Nextflow** y permite ejecutar de forma reproducible todo el flujo de análisis utilizando un contenedor con **BWA**.
+Está desarrollado en **Nextflow** y permite ejecutar de forma reproducible todo el flujo de análisis utilizando un contenedor con **BWA**, **FastQC** y **fastp**.
 
 ---
 
