@@ -128,5 +128,4 @@ Reportes de control de calidad generados por FastQC antes y después del trimmin
 - samtools - Version: 1.22.1
 - fastp - version 1.0.1
 - FastQC - version v0.12.1
-- Python - version 3.12.12
 - gzip - version 1.12
